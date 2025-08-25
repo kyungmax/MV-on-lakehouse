@@ -1,0 +1,7 @@
+# ignore MinIO data directory
+rest-catalog-s3/minio-data/
+benchmark/metastore_db/
+
+
+# Ignore macOS Finder metadata
+.DS_Store
