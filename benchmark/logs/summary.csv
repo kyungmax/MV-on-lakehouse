@@ -1,0 +1,4 @@
+scale,query,mode,e2e_ms
+sf1,q1,baseline,3000
+sf1,q1,full,4000
+sf1,q1,ivm,4000

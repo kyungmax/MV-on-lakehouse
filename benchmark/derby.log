@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 25 15:13:28 KST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0198-dfdc-3a1d-000003b9a5d0 
+on database directory /Users/kyungmin/coding/study/MV-on-lakehouse/benchmark/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/Users/kyungmin/coding/study/fork-directories/spark/assembly/target/scala-2.13/jars/derby-10.16.1.1.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=21.0.7+6-LTS
+user.dir=/Users/kyungmin/coding/study/MV-on-lakehouse/benchmark
+os.name=Mac OS X
+os.arch=x86_64
+os.version=15.6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
