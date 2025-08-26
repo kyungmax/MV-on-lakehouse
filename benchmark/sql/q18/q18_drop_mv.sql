@@ -1,0 +1,1 @@
+DROP MATERIALIZED VIEW IF EXISTS my_rest.tpch.q18mv;
