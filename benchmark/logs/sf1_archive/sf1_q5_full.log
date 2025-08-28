@@ -1,0 +1,104 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/27 13:56:45 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.12 instead (on interface en0)
+25/08/27 13:56:45 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/27 13:56:46 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/27 13:56:50 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/08/27 13:56:50 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+25/08/27 13:57:01 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/27 13:57:01 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.12:4042
+Spark master: local[*], Application Id: local-1756270610424
+spark.sql.MV.rewrite.enabled	true
+Time taken: 1.474 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	true
+Time taken: 0.373 seconds, Fetched 1 row(s)
+mode	full
+Time taken: 0.048 seconds, Fetched 1 row(s)
+Time taken: 1.733 seconds
+Time taken: 9.836 seconds
+Time taken: 0.134 seconds
+Time taken: 32.598 seconds
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 1.604 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 1.032 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 0.698 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 0.812 seconds, Fetched 5 row(s)
+Time taken: 6.753 seconds
+Time taken: 5.314 seconds
+INDONESIA	5.556911407559998E7
+VIETNAM	5.5444916840700015E7
+CHINA	5.3801331198599994E7
+INDIA	5.20693156154E7
+JAPAN	4.541017569539999E7
+Time taken: 13.968 seconds, Fetched 5 row(s)
+INDONESIA	5.556911407559998E7
+VIETNAM	5.5444916840700015E7
+CHINA	5.3801331198599994E7
+INDIA	5.20693156154E7
+JAPAN	4.541017569539999E7
+Time taken: 0.358 seconds, Fetched 5 row(s)
+INDONESIA	5.556911407559998E7
+VIETNAM	5.5444916840700015E7
+CHINA	5.3801331198599994E7
+INDIA	5.20693156154E7
+JAPAN	4.541017569539999E7
+Time taken: 0.382 seconds, Fetched 5 row(s)
+INDONESIA	5.556911407559998E7
+VIETNAM	5.5444916840700015E7
+CHINA	5.3801331198599994E7
+INDIA	5.20693156154E7
+JAPAN	4.541017569539999E7
+Time taken: 0.462 seconds, Fetched 5 row(s)
+Time taken: 10.456 seconds
+Time taken: 6.345 seconds
+VIETNAM	5.54449168407E7
+INDONESIA	5.540057728239998E7
+CHINA	5.380133119860001E7
+INDIA	5.206826585860001E7
+JAPAN	4.53686912412E7
+Time taken: 26.705 seconds, Fetched 5 row(s)
+VIETNAM	5.54449168407E7
+INDONESIA	5.540057728239998E7
+CHINA	5.380133119860001E7
+INDIA	5.206826585860001E7
+JAPAN	4.53686912412E7
+Time taken: 0.695 seconds, Fetched 5 row(s)
+VIETNAM	5.54449168407E7
+INDONESIA	5.540057728239998E7
+CHINA	5.380133119860001E7
+INDIA	5.206826585860001E7
+JAPAN	4.53686912412E7
+Time taken: 0.555 seconds, Fetched 5 row(s)
+VIETNAM	5.54449168407E7
+INDONESIA	5.540057728239998E7
+CHINA	5.380133119860001E7
+INDIA	5.206826585860001E7
+JAPAN	4.53686912412E7
+Time taken: 0.681 seconds, Fetched 5 row(s)
+Time taken: 0.107 seconds
+sf1,q5,full,118901
+Time taken: 1.048 seconds, Fetched 1 row(s)

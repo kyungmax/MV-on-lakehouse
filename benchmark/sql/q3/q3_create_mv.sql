@@ -21,5 +21,4 @@ group by
   o_shippriority
 order by
   sum(l_extendedprice * (1 - l_discount)) desc,
-  o_orderdate
-limit 10;
+  o_orderdate;

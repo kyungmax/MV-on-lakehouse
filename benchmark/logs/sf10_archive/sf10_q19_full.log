@@ -1,0 +1,54 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/27 17:27:50 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.12 instead (on interface en0)
+25/08/27 17:27:50 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/27 17:27:50 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/27 17:27:57 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/27 17:27:57 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.12:4040
+Spark master: local[*], Application Id: local-1756283273490
+spark.sql.MV.rewrite.enabled	true
+Time taken: 0.923 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	true
+Time taken: 0.093 seconds, Fetched 1 row(s)
+mode	full
+Time taken: 0.033 seconds, Fetched 1 row(s)
+Time taken: 0.644 seconds
+Time taken: 3.899 seconds
+Time taken: 0.089 seconds
+Time taken: 21.533 seconds
+3.0104438091100004E7
+Time taken: 0.608 seconds, Fetched 1 row(s)
+3.0104438091100004E7
+Time taken: 0.311 seconds, Fetched 1 row(s)
+3.0104438091100004E7
+Time taken: 0.218 seconds, Fetched 1 row(s)
+3.0104438091100004E7
+Time taken: 0.203 seconds, Fetched 1 row(s)
+Time taken: 3.315 seconds
+Time taken: 1.603 seconds
+3.01539549916E7
+Time taken: 16.008 seconds, Fetched 1 row(s)
+3.01539549916E7
+Time taken: 14.077 seconds, Fetched 1 row(s)
+3.01539549916E7
+Time taken: 0.566 seconds, Fetched 1 row(s)
+3.01539549916E7
+Time taken: 0.212 seconds, Fetched 1 row(s)
+Time taken: 19.334 seconds
+Time taken: 7.034 seconds
+3.0138614868399996E7
+Time taken: 38.285 seconds, Fetched 1 row(s)
+3.01386148684E7
+Time taken: 35.181 seconds, Fetched 1 row(s)
+3.0138614868399996E7
+Time taken: 0.689 seconds, Fetched 1 row(s)
+3.0138614868399996E7
+Time taken: 0.16 seconds, Fetched 1 row(s)
+Time taken: 0.046 seconds
+sf1,q19,full,163408
+Time taken: 0.616 seconds, Fetched 1 row(s)

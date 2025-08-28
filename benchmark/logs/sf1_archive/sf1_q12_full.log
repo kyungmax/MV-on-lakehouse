@@ -1,0 +1,68 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/27 12:58:49 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.12 instead (on interface en0)
+25/08/27 12:58:49 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/27 12:58:49 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/27 12:58:52 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/08/27 12:58:52 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+25/08/27 12:58:56 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/27 12:58:56 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.12:4042
+Spark master: local[*], Application Id: local-1756267132403
+spark.sql.MV.rewrite.enabled	true
+Time taken: 0.898 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	true
+Time taken: 0.105 seconds, Fetched 1 row(s)
+mode	full
+Time taken: 0.027 seconds, Fetched 1 row(s)
+Time taken: 0.595 seconds
+Time taken: 3.96 seconds
+Time taken: 0.096 seconds
+Time taken: 9.47 seconds
+MAIL	6202	9324
+SHIP	6200	9262
+Time taken: 0.799 seconds, Fetched 2 row(s)
+MAIL	6202	9324
+SHIP	6200	9262
+Time taken: 0.394 seconds, Fetched 2 row(s)
+MAIL	6202	9324
+SHIP	6200	9262
+Time taken: 0.347 seconds, Fetched 2 row(s)
+MAIL	6202	9324
+SHIP	6200	9262
+Time taken: 0.372 seconds, Fetched 2 row(s)
+Time taken: 3.182 seconds
+Time taken: 3.091 seconds
+MAIL	6211	9335
+SHIP	6212	9270
+Time taken: 4.925 seconds, Fetched 2 row(s)
+MAIL	6211	9335
+SHIP	6212	9270
+Time taken: 3.988 seconds, Fetched 2 row(s)
+MAIL	6211	9335
+SHIP	6212	9270
+Time taken: 0.878 seconds, Fetched 2 row(s)
+MAIL	6211	9335
+SHIP	6212	9270
+Time taken: 0.252 seconds, Fetched 2 row(s)
+Time taken: 5.611 seconds
+Time taken: 4.692 seconds
+MAIL	6206	9330
+SHIP	6207	9260
+Time taken: 10.091 seconds, Fetched 2 row(s)
+MAIL	6206	9330
+SHIP	6207	9260
+Time taken: 6.927 seconds, Fetched 2 row(s)
+MAIL	6206	9330
+SHIP	6207	9260
+Time taken: 0.567 seconds, Fetched 2 row(s)
+MAIL	6206	9330
+SHIP	6207	9260
+Time taken: 0.2 seconds, Fetched 2 row(s)
+Time taken: 0.041 seconds
+sf1,q12,full,59846
+Time taken: 0.405 seconds, Fetched 1 row(s)

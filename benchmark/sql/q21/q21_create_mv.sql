@@ -38,5 +38,4 @@ group by
         s_name
 order by
         count(*) DESC,
-        s_name
-limit 100;
+        s_name;

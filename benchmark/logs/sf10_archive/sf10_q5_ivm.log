@@ -1,0 +1,106 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/27 15:19:16 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.12 instead (on interface en0)
+25/08/27 15:19:16 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/27 15:19:16 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/27 15:19:23 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/27 15:19:23 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.12:4040
+Spark master: local[*], Application Id: local-1756275559486
+spark.sql.MV.rewrite.enabled	true
+Time taken: 1.017 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	false
+Time taken: 0.107 seconds, Fetched 1 row(s)
+mode	ivm
+Time taken: 0.028 seconds, Fetched 1 row(s)
+Time taken: 0.627 seconds
+Time taken: 3.819 seconds
+Time taken: 0.086 seconds
+Time taken: 37.386 seconds
+INDIA	5.3686258799950016E8
+CHINA	5.353508299282E8
+VIETNAM	5.322693887176E8
+JAPAN	5.267668371444001E8
+INDONESIA	5.2317685231890005E8
+Time taken: 0.907 seconds, Fetched 5 row(s)
+INDIA	5.3686258799950016E8
+CHINA	5.353508299282E8
+VIETNAM	5.322693887176E8
+JAPAN	5.267668371444001E8
+INDONESIA	5.2317685231890005E8
+Time taken: 0.343 seconds, Fetched 5 row(s)
+INDIA	5.3686258799950016E8
+CHINA	5.353508299282E8
+VIETNAM	5.322693887176E8
+JAPAN	5.267668371444001E8
+INDONESIA	5.2317685231890005E8
+Time taken: 0.338 seconds, Fetched 5 row(s)
+INDIA	5.3686258799950016E8
+CHINA	5.353508299282E8
+VIETNAM	5.322693887176E8
+JAPAN	5.267668371444001E8
+INDONESIA	5.2317685231890005E8
+Time taken: 0.343 seconds, Fetched 5 row(s)
+Time taken: 3.287 seconds
+25/08/27 15:20:17 WARN DataSourceV2Strategy: Can't translate true to source filter, unsupported expression
+Time taken: 18.195 seconds
+Time taken: 2.37 seconds
+INDIA	5.376882342847002E8
+CHINA	5.359219480932E8
+VIETNAM	5.328935210495E8
+JAPAN	5.274431454515001E8
+INDONESIA	5.2369513501870006E8
+Time taken: 10.944 seconds, Fetched 5 row(s)
+INDIA	5.376882342847002E8
+CHINA	5.359219480932E8
+VIETNAM	5.328935210495E8
+JAPAN	5.274431454515001E8
+INDONESIA	5.2369513501870006E8
+Time taken: 0.291 seconds, Fetched 5 row(s)
+INDIA	5.376882342847002E8
+CHINA	5.359219480932E8
+VIETNAM	5.328935210495E8
+JAPAN	5.274431454515001E8
+INDONESIA	5.2369513501870006E8
+Time taken: 0.199 seconds, Fetched 5 row(s)
+INDIA	5.376882342847002E8
+CHINA	5.359219480932E8
+VIETNAM	5.328935210495E8
+JAPAN	5.274431454515001E8
+INDONESIA	5.2369513501870006E8
+Time taken: 0.199 seconds, Fetched 5 row(s)
+Time taken: 15.735 seconds
+Time taken: 20.067 seconds
+Time taken: 7.538 seconds
+25/08/27 15:21:36 WARN DataSourceV2Strategy: Can't translate true to source filter, unsupported expression
+INDIA	5.373550453293002E8
+CHINA	5.353890667705E8
+VIETNAM	5.3265735559029996E8
+JAPAN	5.270704011297001E8
+INDONESIA	5.231799272502001E8
+Time taken: 48.164 seconds, Fetched 5 row(s)
+INDIA	5.373550453293002E8
+CHINA	5.353890667705E8
+VIETNAM	5.3265735559029996E8
+JAPAN	5.270704011297001E8
+INDONESIA	5.2317992725020003E8
+Time taken: 0.375 seconds, Fetched 5 row(s)
+INDIA	5.373550453293002E8
+CHINA	5.353890667705E8
+VIETNAM	5.3265735559029996E8
+JAPAN	5.270704011297001E8
+INDONESIA	5.231799272502001E8
+Time taken: 0.192 seconds, Fetched 5 row(s)
+INDIA	5.373550453293002E8
+CHINA	5.353890667705E8
+VIETNAM	5.3265735559029996E8
+JAPAN	5.270704011297001E8
+INDONESIA	5.2317992725020003E8
+Time taken: 0.21 seconds, Fetched 5 row(s)
+Time taken: 0.044 seconds
+sf1,q5,ivm,170971
+Time taken: 1.461 seconds, Fetched 1 row(s)

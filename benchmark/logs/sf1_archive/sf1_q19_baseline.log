@@ -1,0 +1,53 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/27 13:17:10 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.12 instead (on interface en0)
+25/08/27 13:17:10 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/27 13:17:11 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/27 13:17:13 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/08/27 13:17:13 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+25/08/27 13:17:17 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/27 13:17:17 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.12:4042
+Spark master: local[*], Application Id: local-1756268233650
+spark.sql.MV.rewrite.enabled	false
+Time taken: 1.056 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	false
+Time taken: 0.099 seconds, Fetched 1 row(s)
+mode	baseline
+Time taken: 0.027 seconds, Fetched 1 row(s)
+Time taken: 0.627 seconds
+Time taken: 4.02 seconds
+3083843.0578000005
+Time taken: 11.326 seconds, Fetched 1 row(s)
+3083843.0578000005
+Time taken: 5.24 seconds, Fetched 1 row(s)
+3083843.0578000005
+Time taken: 3.098 seconds, Fetched 1 row(s)
+3083843.0578000005
+Time taken: 2.337 seconds, Fetched 1 row(s)
+Time taken: 5.22 seconds
+Time taken: 2.376 seconds
+3083843.0578
+Time taken: 5.489 seconds, Fetched 1 row(s)
+3083843.0578000005
+Time taken: 2.256 seconds, Fetched 1 row(s)
+3083843.0578000005
+Time taken: 5.849 seconds, Fetched 1 row(s)
+3083843.0578
+Time taken: 3.664 seconds, Fetched 1 row(s)
+Time taken: 8.158 seconds
+Time taken: 4.552 seconds
+3083843.0578
+Time taken: 11.882 seconds, Fetched 1 row(s)
+3083843.0577999996
+Time taken: 12.968 seconds, Fetched 1 row(s)
+3083843.0577999996
+Time taken: 11.021 seconds, Fetched 1 row(s)
+3083843.0577999996
+Time taken: 10.801 seconds, Fetched 1 row(s)
+sf1,q19,baseline,110610
+Time taken: 1.591 seconds, Fetched 1 row(s)

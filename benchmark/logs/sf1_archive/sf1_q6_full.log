@@ -1,0 +1,56 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/27 12:40:58 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.12 instead (on interface en0)
+25/08/27 12:40:58 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/27 12:40:59 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/27 12:41:01 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/08/27 12:41:01 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+25/08/27 12:41:06 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/27 12:41:06 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.12:4042
+Spark master: local[*], Application Id: local-1756266061914
+spark.sql.MV.rewrite.enabled	true
+Time taken: 0.883 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	true
+Time taken: 0.071 seconds, Fetched 1 row(s)
+mode	full
+Time taken: 0.029 seconds, Fetched 1 row(s)
+Time taken: 0.586 seconds
+Time taken: 3.677 seconds
+Time taken: 0.087 seconds
+Time taken: 3.552 seconds
+1.231410782283E8
+Time taken: 0.593 seconds, Fetched 1 row(s)
+1.231410782283E8
+Time taken: 0.316 seconds, Fetched 1 row(s)
+1.231410782283E8
+Time taken: 0.253 seconds, Fetched 1 row(s)
+1.231410782283E8
+Time taken: 0.249 seconds, Fetched 1 row(s)
+Time taken: 4.993 seconds
+Time taken: 3.722 seconds
+1.2328123298549998E8
+Time taken: 2.83 seconds, Fetched 1 row(s)
+1.2328123298549992E8
+Time taken: 0.852 seconds, Fetched 1 row(s)
+1.232812329854998E8
+Time taken: 0.483 seconds, Fetched 1 row(s)
+1.2328123298549977E8
+Time taken: 0.575 seconds, Fetched 1 row(s)
+Time taken: 7.192 seconds
+Time taken: 4.677 seconds
+1.2316399076239972E8
+Time taken: 4.653 seconds, Fetched 1 row(s)
+1.2316399076239972E8
+Time taken: 0.249 seconds, Fetched 1 row(s)
+1.2316399076239972E8
+Time taken: 0.146 seconds, Fetched 1 row(s)
+1.2316399076239972E8
+Time taken: 0.154 seconds, Fetched 1 row(s)
+Time taken: 0.042 seconds
+sf1,q6,full,39211
+Time taken: 0.373 seconds, Fetched 1 row(s)

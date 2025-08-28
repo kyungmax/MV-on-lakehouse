@@ -1,0 +1,65 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/27 12:55:38 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.12 instead (on interface en0)
+25/08/27 12:55:38 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/27 12:55:39 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/27 12:55:42 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/08/27 12:55:42 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+25/08/27 12:55:46 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/27 12:55:46 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.12:4042
+Spark master: local[*], Application Id: local-1756266942221
+spark.sql.MV.rewrite.enabled	false
+Time taken: 0.888 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	false
+Time taken: 0.078 seconds, Fetched 1 row(s)
+mode	baseline
+Time taken: 0.037 seconds, Fetched 1 row(s)
+Time taken: 0.611 seconds
+Time taken: 3.707 seconds
+MAIL	6202	9324
+SHIP	6200	9262
+Time taken: 10.168 seconds, Fetched 2 row(s)
+MAIL	6202	9324
+SHIP	6200	9262
+Time taken: 4.497 seconds, Fetched 2 row(s)
+MAIL	6202	9324
+SHIP	6200	9262
+Time taken: 3.876 seconds, Fetched 2 row(s)
+MAIL	6202	9324
+SHIP	6200	9262
+Time taken: 3.378 seconds, Fetched 2 row(s)
+Time taken: 3.6 seconds
+Time taken: 1.728 seconds
+MAIL	6211	9335
+SHIP	6212	9270
+Time taken: 3.636 seconds, Fetched 2 row(s)
+MAIL	6211	9335
+SHIP	6212	9270
+Time taken: 3.711 seconds, Fetched 2 row(s)
+MAIL	6211	9335
+SHIP	6212	9270
+Time taken: 2.089 seconds, Fetched 2 row(s)
+MAIL	6211	9335
+SHIP	6212	9270
+Time taken: 3.251 seconds, Fetched 2 row(s)
+Time taken: 5.987 seconds
+Time taken: 4.413 seconds
+MAIL	6206	9330
+SHIP	6207	9260
+Time taken: 8.195 seconds, Fetched 2 row(s)
+MAIL	6206	9330
+SHIP	6207	9260
+Time taken: 7.701 seconds, Fetched 2 row(s)
+MAIL	6206	9330
+SHIP	6207	9260
+Time taken: 6.47 seconds, Fetched 2 row(s)
+MAIL	6206	9330
+SHIP	6207	9260
+Time taken: 7.19 seconds, Fetched 2 row(s)
+sf1,q12,baseline,83857
+Time taken: 0.767 seconds, Fetched 1 row(s)

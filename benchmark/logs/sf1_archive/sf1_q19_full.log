@@ -1,0 +1,56 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/27 13:20:51 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.12 instead (on interface en0)
+25/08/27 13:20:51 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/27 13:20:52 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/27 13:20:54 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/08/27 13:20:54 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+25/08/27 13:20:59 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/27 13:20:59 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.12:4042
+Spark master: local[*], Application Id: local-1756268454829
+spark.sql.MV.rewrite.enabled	true
+Time taken: 0.946 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	true
+Time taken: 0.072 seconds, Fetched 1 row(s)
+mode	full
+Time taken: 0.021 seconds, Fetched 1 row(s)
+Time taken: 0.59 seconds
+Time taken: 3.656 seconds
+Time taken: 0.097 seconds
+Time taken: 12.165 seconds
+3083843.0578000005
+Time taken: 1.63 seconds, Fetched 1 row(s)
+3083843.0578000005
+Time taken: 0.466 seconds, Fetched 1 row(s)
+3083843.0578000005
+Time taken: 0.214 seconds, Fetched 1 row(s)
+3083843.0578000005
+Time taken: 0.208 seconds, Fetched 1 row(s)
+Time taken: 4.295 seconds
+Time taken: 3.589 seconds
+3083843.0578
+Time taken: 7.19 seconds, Fetched 1 row(s)
+3083843.0578
+Time taken: 3.392 seconds, Fetched 1 row(s)
+3083843.0578
+Time taken: 0.548 seconds, Fetched 1 row(s)
+3083843.0578
+Time taken: 0.15 seconds, Fetched 1 row(s)
+Time taken: 7.718 seconds
+Time taken: 4.66 seconds
+3083843.0578
+Time taken: 14.867 seconds, Fetched 1 row(s)
+3083843.0577999996
+Time taken: 9.483 seconds, Fetched 1 row(s)
+3083843.0578
+Time taken: 1.641 seconds, Fetched 1 row(s)
+3083843.0578
+Time taken: 0.535 seconds, Fetched 1 row(s)
+Time taken: 0.051 seconds
+sf1,q19,full,76525
+Time taken: 0.4 seconds, Fetched 1 row(s)

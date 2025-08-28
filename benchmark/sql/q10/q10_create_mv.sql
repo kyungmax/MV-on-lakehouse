@@ -30,5 +30,4 @@ select
       c_address,
       c_comment
     order by
-      sum(l_extendedprice * (1 - l_discount)) desc
-limit 20;
+      sum(l_extendedprice * (1 - l_discount)) desc;

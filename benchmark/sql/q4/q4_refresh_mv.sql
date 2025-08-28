@@ -1,1 +1,0 @@
-REFRESH MATERIALIZED VIEW my_rest.tpch.q4mv;
