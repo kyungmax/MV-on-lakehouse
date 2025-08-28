@@ -1,7 +1,9 @@
-# ignore MinIO data directory
+# ignore unrelated directories & files
 rest-catalog-s3/minio-data/
 benchmark/metastore_db/
-
+benchmark/artifacts/
+benchmark/spark-warehouse/
+benchmark/include/
 
 # Ignore macOS Finder metadata
 .DS_Store
