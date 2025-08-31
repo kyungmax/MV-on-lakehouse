@@ -1,0 +1,87 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/30 19:01:53 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 192.168.0.18 instead (on interface en0)
+25/08/30 19:01:53 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/30 19:01:54 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/30 19:02:01 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/30 19:02:01 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://192.168.0.18:4040
+Spark master: local[*], Application Id: local-1756548117327
+spark.sql.MV.rewrite.enabled	false
+Time taken: 0.917 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	false
+Time taken: 0.1 seconds, Fetched 1 row(s)
+mode	baseline
+Time taken: 0.029 seconds, Fetched 1 row(s)
+Time taken: 0.624 seconds
+Time taken: 3.823 seconds
+FRANCE	GERMANY	1995	5.219601417002998E8
+FRANCE	GERMANY	1996	5.247961103841998E8
+GERMANY	FRANCE	1995	5.421997000546E8
+GERMANY	FRANCE	1996	5.336409262614002E8
+Time taken: 22.952 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.219601417002998E8
+FRANCE	GERMANY	1996	5.247961103841998E8
+GERMANY	FRANCE	1995	5.421997000546E8
+GERMANY	FRANCE	1996	5.336409262614002E8
+Time taken: 9.922 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.219601417002998E8
+FRANCE	GERMANY	1996	5.247961103841998E8
+GERMANY	FRANCE	1995	5.421997000546E8
+GERMANY	FRANCE	1996	5.336409262614002E8
+Time taken: 9.077 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.219601417002998E8
+FRANCE	GERMANY	1996	5.247961103841998E8
+GERMANY	FRANCE	1995	5.421997000546E8
+GERMANY	FRANCE	1996	5.336409262614002E8
+Time taken: 10.634 seconds, Fetched 4 row(s)
+Time taken: 4.872 seconds
+Time taken: 1.57 seconds
+FRANCE	GERMANY	1995	5.224617802893998E8
+FRANCE	GERMANY	1996	5.2553491519419986E8
+GERMANY	FRANCE	1995	5.425507010118E8
+GERMANY	FRANCE	1996	5.338717756267003E8
+Time taken: 11.253 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.224617802893998E8
+FRANCE	GERMANY	1996	5.2553491519419986E8
+GERMANY	FRANCE	1995	5.425507010118E8
+GERMANY	FRANCE	1996	5.338717756267003E8
+Time taken: 12.155 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.224617802893998E8
+FRANCE	GERMANY	1996	5.2553491519419986E8
+GERMANY	FRANCE	1995	5.425507010118E8
+GERMANY	FRANCE	1996	5.338717756267003E8
+Time taken: 11.703 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.224617802893998E8
+FRANCE	GERMANY	1996	5.2553491519419986E8
+GERMANY	FRANCE	1995	5.425507010118E8
+GERMANY	FRANCE	1996	5.338717756267003E8
+Time taken: 11.768 seconds, Fetched 4 row(s)
+Time taken: 18.941 seconds
+Time taken: 9.294 seconds
+FRANCE	GERMANY	1995	5.2226893305969965E8
+FRANCE	GERMANY	1996	5.248074721207998E8
+GERMANY	FRANCE	1995	5.420032357386E8
+GERMANY	FRANCE	1996	5.333290307067003E8
+Time taken: 30.546 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.2226893305969965E8
+FRANCE	GERMANY	1996	5.248074721207998E8
+GERMANY	FRANCE	1995	5.420032357386E8
+GERMANY	FRANCE	1996	5.333290307067003E8
+Time taken: 26.648 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.2226893305969965E8
+FRANCE	GERMANY	1996	5.248074721207998E8
+GERMANY	FRANCE	1995	5.420032357386E8
+GERMANY	FRANCE	1996	5.333290307067003E8
+Time taken: 25.43 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.2226893305969965E8
+FRANCE	GERMANY	1996	5.248074721207998E8
+GERMANY	FRANCE	1995	5.420032357386E8
+GERMANY	FRANCE	1996	5.333290307067003E8
+Time taken: 25.133 seconds, Fetched 4 row(s)
+sf1,q7,baseline,246288
+Time taken: 1.255 seconds, Fetched 1 row(s)

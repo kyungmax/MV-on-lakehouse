@@ -1,0 +1,51 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/28 17:08:35 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.117 instead (on interface en0)
+25/08/28 17:08:35 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/28 17:08:36 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/28 17:08:43 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/28 17:08:43 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.117:4040
+Spark master: local[*], Application Id: local-1756368518769
+spark.sql.MV.rewrite.enabled	false
+Time taken: 0.941 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	false
+Time taken: 0.103 seconds, Fetched 1 row(s)
+mode	baseline
+Time taken: 0.032 seconds, Fetched 1 row(s)
+Time taken: 0.637 seconds
+Time taken: 3.709 seconds
+3295493.5128571433
+Time taken: 44.068 seconds, Fetched 1 row(s)
+3295493.5128571433
+Time taken: 31.436 seconds, Fetched 1 row(s)
+3295493.5128571433
+Time taken: 29.207 seconds, Fetched 1 row(s)
+3295493.5128571433
+Time taken: 33.423 seconds, Fetched 1 row(s)
+Time taken: 4.398 seconds
+Time taken: 3.593 seconds
+3295175.8299999996
+Time taken: 29.014 seconds, Fetched 1 row(s)
+3295175.8299999996
+Time taken: 34.448 seconds, Fetched 1 row(s)
+3295175.8299999996
+Time taken: 40.44 seconds, Fetched 1 row(s)
+3295175.8299999996
+Time taken: 37.439 seconds, Fetched 1 row(s)
+Time taken: 17.93 seconds
+Time taken: 7.371 seconds
+3291548.3257142864
+Time taken: 82.504 seconds, Fetched 1 row(s)
+3291548.3257142864
+Time taken: 70.852 seconds, Fetched 1 row(s)
+3291548.3257142864
+Time taken: 72.124 seconds, Fetched 1 row(s)
+3291548.3257142864
+Time taken: 65.626 seconds, Fetched 1 row(s)
+sf1,q17,baseline,607988
+Time taken: 1.36 seconds, Fetched 1 row(s)

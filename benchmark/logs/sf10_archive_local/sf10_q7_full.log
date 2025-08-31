@@ -1,0 +1,90 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/30 19:09:56 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 192.168.0.18 instead (on interface en0)
+25/08/30 19:09:56 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/30 19:09:57 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/30 19:10:04 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/30 19:10:04 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://192.168.0.18:4040
+Spark master: local[*], Application Id: local-1756548599991
+spark.sql.MV.rewrite.enabled	true
+Time taken: 0.972 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	true
+Time taken: 0.092 seconds, Fetched 1 row(s)
+mode	full
+Time taken: 0.034 seconds, Fetched 1 row(s)
+Time taken: 0.618 seconds
+Time taken: 3.831 seconds
+Time taken: 0.095 seconds
+Time taken: 20.648 seconds
+FRANCE	GERMANY	1995	5.219601417002998E8
+FRANCE	GERMANY	1996	5.247961103841998E8
+GERMANY	FRANCE	1995	5.421997000546E8
+GERMANY	FRANCE	1996	5.336409262614002E8
+Time taken: 0.941 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.219601417002998E8
+FRANCE	GERMANY	1996	5.247961103841998E8
+GERMANY	FRANCE	1995	5.421997000546E8
+GERMANY	FRANCE	1996	5.336409262614002E8
+Time taken: 0.365 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.219601417002998E8
+FRANCE	GERMANY	1996	5.247961103841998E8
+GERMANY	FRANCE	1995	5.421997000546E8
+GERMANY	FRANCE	1996	5.336409262614002E8
+Time taken: 0.292 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.219601417002998E8
+FRANCE	GERMANY	1996	5.247961103841998E8
+GERMANY	FRANCE	1995	5.421997000546E8
+GERMANY	FRANCE	1996	5.336409262614002E8
+Time taken: 0.309 seconds, Fetched 4 row(s)
+Time taken: 3.289 seconds
+Time taken: 1.501 seconds
+FRANCE	GERMANY	1995	5.224617802893998E8
+FRANCE	GERMANY	1996	5.2553491519419986E8
+GERMANY	FRANCE	1995	5.425507010118E8
+GERMANY	FRANCE	1996	5.338717756267003E8
+Time taken: 13.436 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.224617802893998E8
+FRANCE	GERMANY	1996	5.2553491519419986E8
+GERMANY	FRANCE	1995	5.425507010118E8
+GERMANY	FRANCE	1996	5.338717756267003E8
+Time taken: 11.027 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.224617802893998E8
+FRANCE	GERMANY	1996	5.2553491519419986E8
+GERMANY	FRANCE	1995	5.425507010118E8
+GERMANY	FRANCE	1996	5.338717756267003E8
+Time taken: 1.078 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.224617802893998E8
+FRANCE	GERMANY	1996	5.2553491519419986E8
+GERMANY	FRANCE	1995	5.425507010118E8
+GERMANY	FRANCE	1996	5.338717756267003E8
+Time taken: 0.254 seconds, Fetched 4 row(s)
+Time taken: 19.512 seconds
+Time taken: 6.69 seconds
+FRANCE	GERMANY	1995	5.2226893305969965E8
+FRANCE	GERMANY	1996	5.248074721207998E8
+GERMANY	FRANCE	1995	5.420032357386E8
+GERMANY	FRANCE	1996	5.333290307067003E8
+Time taken: 35.115 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.2226893305969965E8
+FRANCE	GERMANY	1996	5.248074721207998E8
+GERMANY	FRANCE	1995	5.420032357386E8
+GERMANY	FRANCE	1996	5.333290307067003E8
+Time taken: 26.334 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.2226893305969965E8
+FRANCE	GERMANY	1996	5.248074721207998E8
+GERMANY	FRANCE	1995	5.420032357386E8
+GERMANY	FRANCE	1996	5.333290307067003E8
+Time taken: 1.086 seconds, Fetched 4 row(s)
+FRANCE	GERMANY	1995	5.2226893305969965E8
+FRANCE	GERMANY	1996	5.248074721207998E8
+GERMANY	FRANCE	1995	5.420032357386E8
+GERMANY	FRANCE	1996	5.333290307067003E8
+Time taken: 0.268 seconds, Fetched 4 row(s)
+Time taken: 0.036 seconds
+sf1,q7,full,146045
+Time taken: 0.407 seconds, Fetched 1 row(s)

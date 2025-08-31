@@ -7,9 +7,10 @@ source ./env.sh
 # ${SPARKSQL} -f ./sql/load_data.sql
 ${SPARKSQL} -f ./sql/load_refresh_function_data.sql
 
-# QUERIES=(q1 q3 q5 q6 q10 q12 q17 q18 q19 q20 q21)
-QUERIES=(q18 q19 q20 q21)
+# QUERIES=(q1 q3 q4 q5 q6 q7 q9 q10 q12 q18 q19 q21 q22)
+QUERIES=(q4 q7 q9 q21)
 MODES=(baseline full ivm)
+# MODES=(ivm)
 
 summary="${LOGDIR}/summary.csv"
 echo "scale,query,mode,e2e_ms" > "$summary"

@@ -1,6 +1,7 @@
 
 INSERT INTO my_rest.tpch.lineitem
 SELECT * FROM rf_lineitem;
+
 select
         s_name,
         count(*)

@@ -1,0 +1,101 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/29 11:54:13 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.117 instead (on interface en0)
+25/08/29 11:54:13 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/29 11:54:14 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/29 11:54:16 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/08/29 11:54:16 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+25/08/29 11:54:21 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/29 11:54:21 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.117:4042
+Spark master: local[*], Application Id: local-1756436056957
+spark.sql.MV.rewrite.enabled	false
+Time taken: 0.901 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	false
+Time taken: 0.071 seconds, Fetched 1 row(s)
+mode	baseline
+Time taken: 0.028 seconds, Fetched 1 row(s)
+Time taken: 0.586 seconds
+Time taken: 3.699 seconds
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 13.978 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 7.608 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 6.22 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 5.378 seconds, Fetched 5 row(s)
+Time taken: 4.737 seconds
+Time taken: 3.59 seconds
+INDONESIA	5.55020411697E7
+VIETNAM	5.5295086996700004E7
+CHINA	5.372449425659999E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 7.543 seconds, Fetched 5 row(s)
+INDONESIA	5.550204116969999E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425659999E7
+INDIA	5.2035512000199996E7
+JAPAN	4.54101756954E7
+Time taken: 7.724 seconds, Fetched 5 row(s)
+INDONESIA	5.550204116969999E7
+VIETNAM	5.529508699669999E7
+CHINA	5.372449425659999E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 7.319 seconds, Fetched 5 row(s)
+INDONESIA	5.55020411697E7
+VIETNAM	5.529508699669998E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569540001E7
+Time taken: 5.83 seconds, Fetched 5 row(s)
+Time taken: 5.177 seconds
+Time taken: 5.115 seconds
+VIETNAM	5.483140746449999E7
+INDONESIA	5.458173235149999E7
+CHINA	5.3395599887E7
+INDIA	5.16453682353E7
+JAPAN	4.48618585804E7
+Time taken: 11.71 seconds, Fetched 5 row(s)
+VIETNAM	5.483140746450002E7
+INDONESIA	5.458173235149999E7
+CHINA	5.339559988700001E7
+INDIA	5.164536823529999E7
+JAPAN	4.48618585804E7
+Time taken: 14.803 seconds, Fetched 5 row(s)
+VIETNAM	5.48314074645E7
+INDONESIA	5.458173235149998E7
+CHINA	5.3395599887E7
+INDIA	5.164536823529999E7
+JAPAN	4.4861858580400005E7
+Time taken: 11.336 seconds, Fetched 5 row(s)
+VIETNAM	5.483140746450001E7
+INDONESIA	5.45817323515E7
+CHINA	5.3395599887E7
+INDIA	5.164536823529999E7
+JAPAN	4.48618585804E7
+Time taken: 12.562 seconds, Fetched 5 row(s)
+sf1,q5,baseline,134636
+Time taken: 0.882 seconds, Fetched 1 row(s)

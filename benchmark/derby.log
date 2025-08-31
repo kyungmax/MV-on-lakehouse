@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Wed Aug 27 18:30:02 KST 2025:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0198-eadc-e552-000007c4d0b0 
+Sat Aug 30 20:24:24 KST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0198-fab8-af89-000003c14f30 
 on database directory /Users/kyungmin/coding/study/MV-on-lakehouse/benchmark/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
 Loaded from file:/Users/kyungmin/coding/study/fork-directories/spark/assembly/target/scala-2.13/jars/derby-10.16.1.1.jar
 java.vendor=Amazon.com Inc.

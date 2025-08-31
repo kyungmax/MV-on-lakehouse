@@ -1,0 +1,108 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/08/29 12:01:23 WARN Utils: Your hostname, kyungmin.local, resolves to a loopback address: 127.0.0.1; using 10.70.0.117 instead (on interface en0)
+25/08/29 12:01:23 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/08/29 12:01:24 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/29 12:01:26 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/08/29 12:01:26 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+25/08/29 12:01:30 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/29 12:01:30 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@127.0.0.1
+Spark Web UI available at http://10.70.0.117:4042
+Spark master: local[*], Application Id: local-1756436486852
+spark.sql.MV.rewrite.enabled	true
+Time taken: 0.861 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	false
+Time taken: 0.091 seconds, Fetched 1 row(s)
+mode	ivm
+Time taken: 0.035 seconds, Fetched 1 row(s)
+Time taken: 0.598 seconds
+Time taken: 3.645 seconds
+Time taken: 0.08 seconds
+Time taken: 16.069 seconds
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 1.118 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 0.74 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 0.466 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 0.359 seconds, Fetched 5 row(s)
+Time taken: 3.404 seconds
+25/08/29 12:02:03 WARN DataSourceV2Strategy: Can't translate true to source filter, unsupported expression
+Time taken: 11.414 seconds
+Time taken: 2.322 seconds
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 4.85 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 0.302 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 0.207 seconds, Fetched 5 row(s)
+INDONESIA	5.5502041169700004E7
+VIETNAM	5.52950869967E7
+CHINA	5.372449425660001E7
+INDIA	5.20355120002E7
+JAPAN	4.541017569539999E7
+Time taken: 0.227 seconds, Fetched 5 row(s)
+Time taken: 6.27 seconds
+Time taken: 14.638 seconds
+Time taken: 2.404 seconds
+25/08/29 12:02:48 WARN DataSourceV2Strategy: Can't translate true to source filter, unsupported expression
+VIETNAM	5.4831407464499995E7
+INDONESIA	5.4581732351500005E7
+CHINA	5.339559988700001E7
+INDIA	5.1645368235300004E7
+JAPAN	4.486185858039999E7
+Time taken: 24.077 seconds, Fetched 5 row(s)
+VIETNAM	5.4831407464499995E7
+INDONESIA	5.4581732351500005E7
+CHINA	5.339559988700001E7
+INDIA	5.1645368235300004E7
+JAPAN	4.486185858039999E7
+Time taken: 0.314 seconds, Fetched 5 row(s)
+VIETNAM	5.4831407464499995E7
+INDONESIA	5.4581732351500005E7
+CHINA	5.339559988700001E7
+INDIA	5.1645368235300004E7
+JAPAN	4.486185858039999E7
+Time taken: 0.21 seconds, Fetched 5 row(s)
+VIETNAM	5.4831407464499995E7
+INDONESIA	5.4581732351500005E7
+CHINA	5.339559988700001E7
+INDIA	5.1645368235300004E7
+JAPAN	4.486185858039999E7
+Time taken: 0.162 seconds, Fetched 5 row(s)
+Time taken: 0.048 seconds
+sf1,q5,ivm,93254
+Time taken: 0.245 seconds, Fetched 1 row(s)

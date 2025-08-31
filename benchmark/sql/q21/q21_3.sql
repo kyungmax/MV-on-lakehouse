@@ -1,7 +1,8 @@
 
-
 DELETE FROM my_rest.tpch.orders
 WHERE o_orderkey IN (SELECT okey FROM rf_del);
+
+
 select
         s_name,
         count(*)

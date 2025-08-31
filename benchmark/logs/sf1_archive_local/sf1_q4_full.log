@@ -1,0 +1,101 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+25/08/29 17:04:22 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/08/29 17:04:25 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/08/29 17:04:25 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+25/08/29 17:04:29 WARN ObjectStore: Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 2.3.0
+25/08/29 17:04:29 WARN ObjectStore: setMetaStoreSchemaVersion called but recording version is disabled: version = 2.3.0, comment = Set by MetaStore kyungmin@10.70.0.117
+Spark Web UI available at http://10.70.0.117:4042
+Spark master: local[*], Application Id: local-1756454665458
+spark.sql.MV.rewrite.enabled	true
+Time taken: 0.891 seconds, Fetched 1 row(s)
+spark.sql.MV.full.refresh	true
+Time taken: 0.078 seconds, Fetched 1 row(s)
+mode	full
+Time taken: 0.025 seconds, Fetched 1 row(s)
+Time taken: 0.577 seconds
+Time taken: 4.711 seconds
+Time taken: 0.094 seconds
+Time taken: 13.756 seconds
+1-URGENT	10594
+2-HIGH	10476
+3-MEDIUM	10410
+4-NOT SPECIFIED	10556
+5-LOW	10487
+Time taken: 1.223 seconds, Fetched 5 row(s)
+1-URGENT	10594
+2-HIGH	10476
+3-MEDIUM	10410
+4-NOT SPECIFIED	10556
+5-LOW	10487
+Time taken: 0.39 seconds, Fetched 5 row(s)
+1-URGENT	10594
+2-HIGH	10476
+3-MEDIUM	10410
+4-NOT SPECIFIED	10556
+5-LOW	10487
+Time taken: 0.398 seconds, Fetched 5 row(s)
+1-URGENT	10594
+2-HIGH	10476
+3-MEDIUM	10410
+4-NOT SPECIFIED	10556
+5-LOW	10487
+Time taken: 0.322 seconds, Fetched 5 row(s)
+Time taken: 3.484 seconds
+Time taken: 1.932 seconds
+1-URGENT	10719
+2-HIGH	10600
+3-MEDIUM	10511
+4-NOT SPECIFIED	10654
+5-LOW	10586
+Time taken: 10.404 seconds, Fetched 5 row(s)
+1-URGENT	10719
+2-HIGH	10600
+3-MEDIUM	10511
+4-NOT SPECIFIED	10654
+5-LOW	10586
+Time taken: 6.2 seconds, Fetched 5 row(s)
+1-URGENT	10719
+2-HIGH	10600
+3-MEDIUM	10511
+4-NOT SPECIFIED	10654
+5-LOW	10586
+Time taken: 0.739 seconds, Fetched 5 row(s)
+1-URGENT	10719
+2-HIGH	10600
+3-MEDIUM	10511
+4-NOT SPECIFIED	10654
+5-LOW	10586
+Time taken: 0.239 seconds, Fetched 5 row(s)
+Time taken: 4.078 seconds
+Time taken: 4.257 seconds
+1-URGENT	10626
+2-HIGH	10497
+3-MEDIUM	10402
+4-NOT SPECIFIED	10552
+5-LOW	10458
+Time taken: 14.961 seconds, Fetched 5 row(s)
+1-URGENT	10626
+2-HIGH	10497
+3-MEDIUM	10402
+4-NOT SPECIFIED	10552
+5-LOW	10458
+Time taken: 9.355 seconds, Fetched 5 row(s)
+1-URGENT	10626
+2-HIGH	10497
+3-MEDIUM	10402
+4-NOT SPECIFIED	10552
+5-LOW	10458
+Time taken: 1.798 seconds, Fetched 5 row(s)
+1-URGENT	10626
+2-HIGH	10497
+3-MEDIUM	10402
+4-NOT SPECIFIED	10552
+5-LOW	10458
+Time taken: 1.031 seconds, Fetched 5 row(s)
+Time taken: 0.073 seconds
+sf1,q4,full,79134
+Time taken: 0.512 seconds, Fetched 1 row(s)

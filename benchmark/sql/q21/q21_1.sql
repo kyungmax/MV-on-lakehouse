@@ -162,5 +162,6 @@ order by
         s_name
 limit 100;
 
+
 INSERT INTO my_rest.tpch.orders
 SELECT * FROM rf_orders;
